@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Yeenyechee
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning javascript and css
-- 💞️ I’m looking to collaborate on web developmen projects
-- 📫 You can reach me via email:onyinyeifemkpa@gmail.com
+- 👋 Hi, I’m Onyinye
+- 👀 I’m a Data Analyst
+- 🌱 I’m currently improving my skills python and sql
+- 💞️ I’m looking to collaborate on data analytics projects
+- 📫 You can reach me via email:ifemkpao@gmail.com
 
 <!---
 Yeenyechee/Yeenyechee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
